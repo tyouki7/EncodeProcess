@@ -1,0 +1,2 @@
+# EncodeProcess
+DicomTagのエンコード処理
